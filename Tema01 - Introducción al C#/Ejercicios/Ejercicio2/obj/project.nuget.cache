@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8tOyVdnJWBKqDFBKJx3xFZkq3/RedR7TMD2QXzGGhNJ5T1CVffvqinQCrU92pzM/cW/0MC7ppTCUcpvB9hsetQ==",
+  "success": true,
+  "projectFilePath": "G:\\Dropbox\\Clases\\Montecastelo\\DAM\\2º DAM\\DESARROLLO DE INTERFACES\\Temario\\Tema01 - Introducción al C#\\Ejercicios\\Ejercicio2\\Ejercicio2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MESACOCINA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\MESACOCINA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\MESACOCINA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\MESACOCINA\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
