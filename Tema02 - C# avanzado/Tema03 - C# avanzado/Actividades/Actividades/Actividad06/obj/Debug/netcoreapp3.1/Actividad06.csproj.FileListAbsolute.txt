@@ -1,0 +1,13 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Actividades\Actividades\Actividad06\bin\Debug\netcoreapp3.1\Actividad06.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Actividades\Actividades\Actividad06\bin\Debug\netcoreapp3.1\Actividad06.deps.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Actividades\Actividades\Actividad06\bin\Debug\netcoreapp3.1\Actividad06.runtimeconfig.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Actividades\Actividades\Actividad06\bin\Debug\netcoreapp3.1\Actividad06.runtimeconfig.dev.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Actividades\Actividades\Actividad06\bin\Debug\netcoreapp3.1\Actividad06.dll
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Actividades\Actividades\Actividad06\bin\Debug\netcoreapp3.1\Actividad06.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Actividades\Actividades\Actividad06\obj\Debug\netcoreapp3.1\Actividad06.csprojAssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Actividades\Actividades\Actividad06\obj\Debug\netcoreapp3.1\Actividad06.AssemblyInfoInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Actividades\Actividades\Actividad06\obj\Debug\netcoreapp3.1\Actividad06.AssemblyInfo.cs
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Actividades\Actividades\Actividad06\obj\Debug\netcoreapp3.1\Actividad06.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Actividades\Actividades\Actividad06\obj\Debug\netcoreapp3.1\Actividad06.dll
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Actividades\Actividades\Actividad06\obj\Debug\netcoreapp3.1\Actividad06.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Actividades\Actividades\Actividad06\obj\Debug\netcoreapp3.1\Actividad06.genruntimeconfig.cache

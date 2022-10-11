@@ -1,0 +1,26 @@
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.exe
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.deps.json
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.json
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.dev.json
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.dll
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.pdb
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfo.cs
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.dll
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.pdb
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.genruntimeconfig.cache
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema03 - Fundamentos de C#\Ejercicios\Tema3\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.exe
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema03 - Fundamentos de C#\Ejercicios\Tema3\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.deps.json
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema03 - Fundamentos de C#\Ejercicios\Tema3\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.json
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema03 - Fundamentos de C#\Ejercicios\Tema3\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.dev.json
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema03 - Fundamentos de C#\Ejercicios\Tema3\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.dll
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema03 - Fundamentos de C#\Ejercicios\Tema3\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.pdb
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema03 - Fundamentos de C#\Ejercicios\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csprojAssemblyReference.cache
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema03 - Fundamentos de C#\Ejercicios\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfoInputs.cache
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema03 - Fundamentos de C#\Ejercicios\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfo.cs
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema03 - Fundamentos de C#\Ejercicios\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csproj.CoreCompileInputs.cache
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema03 - Fundamentos de C#\Ejercicios\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.dll
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema03 - Fundamentos de C#\Ejercicios\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.pdb
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema03 - Fundamentos de C#\Ejercicios\Tema3\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.genruntimeconfig.cache
