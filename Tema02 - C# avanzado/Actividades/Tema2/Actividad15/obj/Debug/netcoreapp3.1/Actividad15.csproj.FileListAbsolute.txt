@@ -1,0 +1,14 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\bin\Debug\netcoreapp3.1\Actividad15.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\bin\Debug\netcoreapp3.1\Actividad15.deps.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\bin\Debug\netcoreapp3.1\Actividad15.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\bin\Debug\netcoreapp3.1\Actividad15.runtimeconfig.dev.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\bin\Debug\netcoreapp3.1\Actividad15.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\bin\Debug\netcoreapp3.1\Actividad15.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\obj\Debug\netcoreapp3.1\Actividad15.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\obj\Debug\netcoreapp3.1\Actividad15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\obj\Debug\netcoreapp3.1\Actividad15.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\obj\Debug\netcoreapp3.1\Actividad15.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\obj\Debug\netcoreapp3.1\Actividad15.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\obj\Debug\netcoreapp3.1\Actividad15.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\obj\Debug\netcoreapp3.1\Actividad15.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - Fundamentos de C#\Actividades\Tema2\Actividad15\obj\Debug\netcoreapp3.1\Actividad15.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema08 - Clases de Uso Habitual\Actividades\Tema8\Actividad6\obj\Debug\Actividad6.Form1.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema08 - Clases de Uso Habitual\Actividades\Tema8\Actividad6\obj\Debug\Actividad6.Properties.Resources.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema08 - Clases de Uso Habitual\Actividades\Tema8\Actividad6\obj\Debug\Actividad6.csproj.GenerateResource.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema08 - Clases de Uso Habitual\Actividades\Tema8\Actividad6\obj\Debug\Actividad6.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema08 - Clases de Uso Habitual\Actividades\Tema8\Actividad6\bin\Debug\Actividad6.exe.config
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema08 - Clases de Uso Habitual\Actividades\Tema8\Actividad6\bin\Debug\Actividad6.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema08 - Clases de Uso Habitual\Actividades\Tema8\Actividad6\bin\Debug\Actividad6.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema08 - Clases de Uso Habitual\Actividades\Tema8\Actividad6\obj\Debug\Actividad6.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema08 - Clases de Uso Habitual\Actividades\Tema8\Actividad6\obj\Debug\Actividad6.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema08 - Clases de Uso Habitual\Actividades\Tema8\Actividad6\obj\Debug\Actividad6.csprojAssemblyReference.cache
