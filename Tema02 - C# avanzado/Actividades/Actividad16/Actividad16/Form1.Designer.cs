@@ -47,9 +47,10 @@
             this.btnSuma = new System.Windows.Forms.Button();
             this.btnResta = new System.Windows.Forms.Button();
             this.btnMultiplicacion = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
+            this.btnDecimal = new System.Windows.Forms.Button();
             this.btnDivision = new System.Windows.Forms.Button();
             this.btnResultadoFinal = new System.Windows.Forms.Button();
+            this.txtTodasOperaciones = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // btnNumero0
@@ -169,6 +170,7 @@
             this.btnValorAbsoluto.TabIndex = 11;
             this.btnValorAbsoluto.Text = "Abs";
             this.btnValorAbsoluto.UseVisualStyleBackColor = true;
+            this.btnValorAbsoluto.Click += new System.EventHandler(this.btnValorAbsoluto_Click);
             // 
             // btnRaizCuadrada
             // 
@@ -178,6 +180,7 @@
             this.btnRaizCuadrada.TabIndex = 12;
             this.btnRaizCuadrada.Text = "Sqrt";
             this.btnRaizCuadrada.UseVisualStyleBackColor = true;
+            this.btnRaizCuadrada.Click += new System.EventHandler(this.btnRaizCuadrada_Click);
             // 
             // btnExponente
             // 
@@ -187,6 +190,7 @@
             this.btnExponente.TabIndex = 13;
             this.btnExponente.Text = "Pow";
             this.btnExponente.UseVisualStyleBackColor = true;
+            this.btnExponente.Click += new System.EventHandler(this.btnExponente_Click);
             // 
             // btnRedondeo
             // 
@@ -196,6 +200,7 @@
             this.btnRedondeo.TabIndex = 14;
             this.btnRedondeo.Text = "Round";
             this.btnRedondeo.UseVisualStyleBackColor = true;
+            this.btnRedondeo.Click += new System.EventHandler(this.btnRedondeo_Click);
             // 
             // btnClear
             // 
@@ -236,14 +241,15 @@
             this.btnMultiplicacion.Text = "*";
             this.btnMultiplicacion.UseVisualStyleBackColor = true;
             // 
-            // button4
+            // btnDecimal
             // 
-            this.button4.Location = new System.Drawing.Point(594, 393);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(55, 47);
-            this.button4.TabIndex = 19;
-            this.button4.Text = ",";
-            this.button4.UseVisualStyleBackColor = true;
+            this.btnDecimal.Location = new System.Drawing.Point(594, 393);
+            this.btnDecimal.Name = "btnDecimal";
+            this.btnDecimal.Size = new System.Drawing.Size(55, 47);
+            this.btnDecimal.TabIndex = 19;
+            this.btnDecimal.Text = ",";
+            this.btnDecimal.UseVisualStyleBackColor = true;
+            this.btnDecimal.Click += new System.EventHandler(this.btnDecimal_Click);
             // 
             // btnDivision
             // 
@@ -262,15 +268,27 @@
             this.btnResultadoFinal.TabIndex = 21;
             this.btnResultadoFinal.Text = "=";
             this.btnResultadoFinal.UseVisualStyleBackColor = true;
+            this.btnResultadoFinal.Click += new System.EventHandler(this.btnResultadoFinal_Click);
+            // 
+            // txtTodasOperaciones
+            // 
+            this.txtTodasOperaciones.Enabled = false;
+            this.txtTodasOperaciones.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.txtTodasOperaciones.Location = new System.Drawing.Point(458, 132);
+            this.txtTodasOperaciones.Name = "txtTodasOperaciones";
+            this.txtTodasOperaciones.Size = new System.Drawing.Size(401, 39);
+            this.txtTodasOperaciones.TabIndex = 22;
+            this.txtTodasOperaciones.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1171, 626);
+            this.Controls.Add(this.txtTodasOperaciones);
             this.Controls.Add(this.btnResultadoFinal);
             this.Controls.Add(this.btnDivision);
-            this.Controls.Add(this.button4);
+            this.Controls.Add(this.btnDecimal);
             this.Controls.Add(this.btnSuma);
             this.Controls.Add(this.btnResta);
             this.Controls.Add(this.btnMultiplicacion);
@@ -318,8 +336,9 @@
         private Button btnSuma;
         private Button btnResta;
         private Button btnMultiplicacion;
-        private Button button4;
+        private Button btnDecimal;
         private Button btnDivision;
         private Button btnResultadoFinal;
+        private TextBox txtTodasOperaciones;
     }
 }

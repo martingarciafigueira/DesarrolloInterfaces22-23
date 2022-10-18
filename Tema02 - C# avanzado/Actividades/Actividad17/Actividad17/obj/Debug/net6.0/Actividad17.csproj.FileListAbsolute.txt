@@ -1,0 +1,15 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\bin\Debug\net6.0\Actividad17.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\bin\Debug\net6.0\Actividad17.deps.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\bin\Debug\net6.0\Actividad17.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\bin\Debug\net6.0\Actividad17.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\bin\Debug\net6.0\Actividad17.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\obj\Debug\net6.0\Actividad17.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\obj\Debug\net6.0\Actividad17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\obj\Debug\net6.0\Actividad17.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\obj\Debug\net6.0\Actividad17.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\obj\Debug\net6.0\Actividad17.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\obj\Debug\net6.0\Actividad17.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\obj\Debug\net6.0\refint\Actividad17.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\obj\Debug\net6.0\Actividad17.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\obj\Debug\net6.0\Actividad17.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema02 - C# avanzado\Actividades\Actividad17\Actividad17\obj\Debug\net6.0\ref\Actividad17.dll

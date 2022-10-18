@@ -1,7 +1,9 @@
-namespace Actividad16
+﻿namespace Actividad16
 {
     public partial class Form1 : Form
     {
+        public string totalOperaciones = "";
+        public double resultadoFinal;
         public Form1()
         {
             InitializeComponent();
@@ -60,16 +62,69 @@ namespace Actividad16
         private void btnClear_Click(object sender, EventArgs e)
         {
             txtPantalla.Clear();
+            txtTodasOperaciones.Clear();
+            resultadoFinal = 0;
         }
 
         private void btnSuma_Click(object sender, EventArgs e)
         {
-
+            double numero;
+            numero = double.Parse(txtPantalla.Text);
+            if (txtTodasOperaciones.Text != "")
+            {
+                
+            }
+            txtTodasOperaciones.Text = txtPantalla.Text + " + ";
+            txtPantalla.Clear();
         }
 
         private void btnResta_Click(object sender, EventArgs e)
         {
             txtPantalla.Text = "-" + txtPantalla.Text;
+        }
+
+        private void btnDecimal_Click(object sender, EventArgs e)
+        {
+            txtPantalla.Text += ',';
+        }
+
+        private void btnValorAbsoluto_Click(object sender, EventArgs e)
+        {
+            double numero;
+            numero = double.Parse(txtPantalla.Text);
+            resultadoFinal = Math.Abs(numero);
+            txtPantalla.Text = "Abs(" + txtPantalla.Text + ")";
+        }
+
+        private void btnRaizCuadrada_Click(object sender, EventArgs e)
+        {
+            double numero;
+            numero = double.Parse(txtPantalla.Text);
+            resultadoFinal = Math.Sqrt(numero);
+            txtPantalla.Text = "√(" + txtPantalla.Text + ")";
+        }
+
+        private void btnExponente_Click(object sender, EventArgs e)
+        {
+            double numero;
+            numero = double.Parse(txtPantalla.Text);
+            resultadoFinal = Math.Pow(numero,2);
+            txtPantalla.Text = txtPantalla.Text + "^2";
+        }
+
+        private void btnRedondeo_Click(object sender, EventArgs e)
+        {
+            double numero;
+            numero = double.Parse(txtPantalla.Text);
+            resultadoFinal = Math.Round(numero);
+            txtPantalla.Text = "Round(" + txtPantalla.Text + ")";
+        }
+
+        private void btnResultadoFinal_Click(object sender, EventArgs e)
+        {
+
+            txtTodasOperaciones.Text = txtPantalla.Text + " = ";
+            txtPantalla.Text = resultadoFinal.ToString();
         }
     }
 }
